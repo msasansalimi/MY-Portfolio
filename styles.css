@@ -40,7 +40,7 @@ body {
 
 
 .navbar-brand{
-     width: 250px;
+    width: 250px;
     height: 100px;
     background: url("Images/backgroundcolor.jpg");
     float: left;
@@ -55,14 +55,12 @@ body {
     text-decoration: none;
 
 }
-.navbar-light .navbar-brand {
-    color: #fff;
-}
+
 h2,h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 700;
-    color: url("Images/backgroundcolor.jpg");
-    border-bottom: 2px solid #eee;
+   background-color: url("Images/backgroundcolor.jpg");
+    /* border-bottom: 2px solid #eee; */
     padding-bottom: 20px;
     margin-bottom: 15px;
     margin: 10px;
