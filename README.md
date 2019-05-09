@@ -1,2 +1,6 @@
 # MY-Portfolio
-In this assignment I have polished my portfolio in order to get employer competitive. I have added new features with more description about me and my goals in my future career, as well links to my LinkdIn profile, Contact Info`s and my Github projects.
+
+My-Portfolio is one of the first assignments that I have done. Using simple technologies like HTML, CSS, and Bootstrap to ceate a responsive website that introduce me, my goals and the projects that I have worked on during my enrollment in U of T Bootcamp.
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://msasansalimi.github.io/MY-Portfolio/)
